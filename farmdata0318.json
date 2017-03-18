@@ -1,0 +1,401 @@
+[
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f8671f"),
+	"name" : "Acme Farm",
+	"description" : "Acme Farm raises grass-fed, antibiotic-, chemical-, and grain-free lamb. We follow organic practices on our farm. Our uncommon sheep are a hardy, ancient breed, considered to be a genetic resource for now and the future. They are a small, hardy, hair sheep breed that carries their fat around their internal organs, which means a low-fat, fine textured and mild flavored meat.  All processing is USDA inspected. We usually have ground lamb, chops, legs-of-lamb, shanks, and two types of sausage, spicy Italian and breakfast, available. You may special order whole lamb or other cuts or varietal portions to be reserved at the next harvest.             Contact Nancy by phone or e-mail to arrange for farm  sales. Our lamb is also available at Everybody's Store (http://www.everybodys.com) in Van Zandt, and Farmer Ben™s (http://www.myfarmerben.com) between Everson and  Lynden,  all in Whatcom County, WA.          Acme Farm, Nancy Hibbing, 5808 Saxon Road, Acme WA (https://www.google.com/maps?q=5808+Saxon+Road,+Acme+WA+9822&hl=en&ll=47.820532,-122.085571&spn=2.452748,5.300903&sll=37.0625,-95.677068&sspn=46.005754,84.814453&hnear=5808+Saxon+Rd,+Acme,+Whatcom,+Washington+98220&t=m&z=8) 98220. (360) 722-1322.        E-mail: acmefarm@msn.com",
+	"products" : [
+		"Lamb"
+	],
+	"location" : {
+		"city" : "Acme",
+		"state" : "Washington",
+		"coordinates" : [
+			122.17294700000001,
+			48.687958,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86720"),
+	"name" : "Acres in Zion",
+	"description" : "Acres in Zion in Enumclaw, Washington raises natural grass fed and grass finished beef; primarily Angus and Herefords.  You can rest assured we do not use antibiotics or growth hormones in our animals. They graze on the lush pastures along the Newaukum Creek near Enumclaw, and in winter are fed quality hay from a local certified organic farm.   The animals are processed locally and cut and wrapped to your specifications.  We may be reached by phone or by email. Please visit our website for more information about us. Acres in Zion, Eric Robb, Enumclaw, WA (http://maps.google.com/maps?f=q&source=s_q&hl=en&q=Enumclaw,+Washington&sll=37.0625,-95.677068&sspn=46.005754,64.511719&ie=UTF8&cd=1&geocode=FQ9F0AIddpW6-A&split=0&ll=47.189712,-121.992187&spn=19.868396,32.255859&z=5). (253) 736-4848. E-mail: ericrobb@zionbeef.com",
+	"Website" : " http://www.zionbeef.com",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Enumclaw",
+		"state" : "Washington",
+		"coordinates" : [
+			121.98977000000001,
+			47.203599,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86721"),
+	"name" : "Agape Wells Farm",
+	"description" : "Agape Wells Farm produces natural grass-fed beef for folks throughout Washington. At Agape Wells we try to raise the best beef possible, beef that is both healthy to eat and flavorful. We approach this goal in 3 ways: raising a select breed of cattle, feeding only natural grass, and providing a quiet stress-free environment. First, we raise only Angus beef. Angus cattle are noted for their marbled meat, making it juicy and tender. Second, we work hard to produce pastures with a high quality mix of grasses and legumes for our cattle to eat. They drink pure water from our artesian well. We supplement with minerals developed especially for our area to provide them with the nutrients they need for healthy growth. No growth hormones or antibiotics are used.  Third, we maintain a low stress environment. The folks on our farm interact with the cattle in a way to ensure they are familiar and comfortable with each of us. As a result, they are easily moved from pasture to pasture with little more than a whistle from the newly opened gate. This keeps our cattle content and producing the best beef possible. For those who insist on the very best, only pasture finished Angus beef will do. So, when you think about that juicy steak, fall off the fork tender beef roast, or the best hamburger you will put your hands around, we hope you will think about Agape Wells' Angus beef.  We hope you will give our beef a try. Visitors to our farm are always welcome. Just give us a call. Agape Wells Farm, Cheryl and David, 10790 Upper Badger Pocket Road, Ellensburg WA 98926. (509) 968-3365.  E-mail: agapewells@fai",
+	"website" : " http [://www.agapewells.com",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Ellensburg",
+		"state" : "Washington",
+		"coordinates" : [
+			120.318191,
+			46.872124,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86722"),
+	"name" : "Akyla Farms",
+	"description" : "Chicken, pork, eggs.  Akyla Farms offers pastured chicken, pastured pork and farm fresh eggs from our small laying flock.  At Akyla Farms pastures are the cornerstone of the farm and we enjoy seeing and hearing our animals happy and healthy, eating what mother nature intended them to eat. The meat chickens are housed in bottomless pens that are dragged to a fresh piece of pasture everyday following a small cow herd. In the brush, the pigs enjoy rooting in the dirt and clearing the land behind an electrified netting and are moved to a new location before they run out of green vegetation. Chickens, ducks and geese make-up the laying flock and are allowed to roam in the yard and wooded areas as they wish.  Please visit our website for more information and let us know if you would like to visit one of our farm locations to hear the animals munching away or to pick up eggs. Akyla Farms, Carol & Kevin Osterman, 24498 Polte Road, Sedro Woolley WA 98284 (https://www.google.com/maps?q=24498+Polte+Road,+Sedro+Woolley+WA+98284&hl=en&ll=48.215523,-122.294312&spn=1.116385,2.532349&sll=37.0625,-95.677068&sspn=42.310334,81.035156&hnear=24498+Polte+Rd,+Sedro-Woolley,+Washington+98284&t=m&z=9). (360) 941-1533. E-mail: barnyard@akylafarms.com",
+	"website" : " http://www.akylafarms.com",
+	"products" : [
+		"Chicken",
+		"Pork",
+		"Eggs"
+	],
+	"location" : {
+		"city" : "Sedro-Woolley",
+		"state" : "Washington",
+		"coordinates" : [
+			122.21410000000002,
+			48.51222,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86723"),
+	"name" : "Amazing Grace Highlands",
+	"description" : "Amazing Grace Highlands “ Beef for the discriminating beef connoisseur! NO ANTIBIOTICS¦..NO STEROIDS¦.NO CHEMICALS AT ALL!   *Organic practices are strictly followed, but we are not certified organic*  At Amazing Grace Highlands we raise only Scottish Highland cattle, currently 40 head and growing. Noted for their lean, nutritious meat that tastes like beef used to taste, our cattle are grass fed and grass finished. This is how nature intended cattle to eat.  Our lush Stillaguamish Valley pastures are grazed using intensive grazing management practices whereby the cattle are given enough grass for 2 or 3 days and then moved to an adjacent section. We repeat this process for 20-30 days, thus allowing the grass to recover before re-grazing it. This sustainable practice creates healthy forage without the use of pesticides or herbicides as the grass out-competes weed growth.  Additionally, we empty and scrub their water troughs to provide the cleanest and healthiest drinking water for our cattle. This is done every time we move them to their next grazing section.   We grow and harvest all of our own haylage for winter feeding, assuring content and quality!  Humanely raised in a beautiful environment and being humanely harvested are IMPORTANT both to us and to you. Upon harvest, our beef is dry aged 17-21 days creating a full-flavored, premium aged product. It is orderable by the quarter, half or whole in the fall and sometimes in the spring as well.  Amazing Grace Highlands, Mark and Debbie Klein, Arlington, WA (http://maps.google.com/maps?q=Arlington,+WAhl=enll=48.195387,-122.124023spn=5.859357,12.974854sll=37.0625,-95.677068sspn=55.016555,103.798828z=7). (425) 231-4993 (Mark), (425) 231-0250 (Debbie)  E-mail: lotwg@hotmail.com",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Arlington",
+		"state" : "Washington",
+		"coordinates" : [
+			122.12514199999998,
+			48.198712,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86724"),
+	"name" : "American Alps Ranch ",
+	"description" : "American Alps Ranch is proud to offer you our all natural grass fed, grass finished Lowline Angus Beef. We raise our cattle on our beautiful ranch in the Skagit River Valley of Washington state. We are a small, family-owned ranch.   No hormones, steroids, grains or antibiotics are ever used on our animals. They eat grass”the food nature intended”and drink pure water straight off the North Cascade mountains. Our Angus cattle graze freely on lush pastures in the fresh air and sunshine. This is good for our cattle, good for the environment and good for you. We use MIG (Management Intensive Grazing) to ensure the very best grass for our cattle and the long-term sustainability of our pastures.  At the peak of their flavor, our cattle are harvested by the IGFC, a local USDA Inspected and Certified Farmer™s Co-Op which comes to our ranch, reducing stress on the animals. Each one of our animals is individually inspected and certified by the on-site USDA inspector, guaranteeing our customers a healthy product. We strictly follow all the requirements for Organic though we are not certified. And the grass fed flavor of our beef is delicious!  Local Delivery! We heartily support the œBuy Local, Eat Local philosophy. For this reason, we offer local delivery to our customers in the greater Seattle and Bellingham, Washington areas. Once a month we load our truck here at the ranch with our healthy and nutritious grass fed beef and make deliveries to pre-arranged central locations down the Hwy 20, I-5 & 405 corridors from Bellingham to Seattle. This great service saves you on shipping costs (only $25 per delivery), saves the environment with one combined trip, and you get our delicious, grass fed beef conveniently delivered to you. What could be better than that? American Alps Ranch, Rick and Brenda Palmer, PO Box 339, Marblemount WA (http://g.co/maps/huvdk) 98267. (360) 873-4507.  E-mail: info@americanalpsranch.com",
+	"website" : " http://www.americanalpsranch.com<\\/a>. (http://www.americanalpsranch.com)",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Marblemount",
+		"state" : "Washington",
+		"coordinates" : [
+			121.44957299999999,
+			48.527619,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86725"),
+	"name" : "August Farm",
+	"description" : "August Farm is a small-scale, pasture based, diversified livestock and flower farm. We are located in Independence Valley, a vibrant farming community, 30 miles south of Olympia, Washington. Our mission is to produce healthy, organic, humanely raised, pastured meat. We strive to preserve heritage breeds, be stewards of the land, and reinvigorate our local economy. Our priority is to provide our livestock with the highest animal welfare and supply our community with the highest quality meat. We raise free-range chickens, whey-fed pigs, grass fed lamb and specialty cut flowers. All of our animals graze on pasture and are fed local and/or certified organic feed. They are raised outside in a safe, comfortable environment that honors their natural instincts. They are slaughtered on farm to reduce the stress of transport and are sold directly to our customers.  Pasture Raised Chicken is Better for the Environment and Better for You. Our chickens are raised seasonally, outdoors, on pasture, where they can flap their wings, take dust baths and eat crickets, worms and grass. We supplement their foraging with non-GMO certified organic feed. Our chickens have been bred to grow more slowly than industrial breeds. The more natural growing period results in superior, old-fashion tasting chicken with a deep, rich flavor our grandparents would recognize.  Purchase whole chickens delivered monthly through our Chicken CSA program to Portland, Olympia, Tacoma and Seattle. Our pork is sold by the half or whole. You can buy a whole grass fed lamb, they are ready in November. Check out our website for more details or contact us to place an order or ask questions. August Farm, Liza Judge, Marianne Copene, 11545 Independence Road, Rochester WA 98579. (801) 859-6598.  E-mail: info@august-farm.com",
+	"website" : " http://www.august-farm.com",
+	"products" : [
+		"Chicken",
+		"Pork",
+		"Lamb"
+	],
+	"location" : {
+		"city" : "Rochester",
+		"state" : "Washington",
+		"coordinates" : [
+			123.127427,
+			46.802681,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86726"),
+	"name" : "Autumn Hills Woollens & Sheep Co. ",
+	"description" : "Autumn Hills Woollens and Sheep Co. raises sheep for wool and for market lamb production.  We raise Merino and Bluefaced Leicester for wool. Our market lambs will be crosses from Bluefaced Leicester, Border Leicester and then finished with a Dorper Ram.  Our breeding strategy centers around sheep that do well in high rainfall areas and sheep that can gain weight easily on pasture grass (grazing in good weather and fed grass hay cut from the same field during inclement weather in a sheltered area). We do not feed our sheep grain.  Autumn Hills Woollens & Sheep Co., Jeffry Seldomridge and Patricia Keeley, 685 Boistfort Road, Curtis WA (http://maps.google.com/maps?f=q&hl=en&geocode=&q=685+Boistfort+Road,+Curtis+WA+98538&sll=46.587476,-123.118629&sspn=0.041291,0.062485&ie=UTF8&ll=46.587417,-123.118629&spn=0.165163,0.249939&z=12&iwloc=addr) 98538. (360) 623-5398.   E-mail: autumnhillswoollens@live.com (autumnhillswoollens@live.com).  ",
+	"website" : " http://www.autumnhillswoollens.com",
+	"products" : [
+		"Lamb",
+		"Wool"
+	],
+	"location" : {
+		"city" : "Curtis",
+		"state" : "Washington",
+		"coordinates" : [
+			123.118608,
+			46.587486,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86727"),
+	"name" : "Baron Farms",
+	"description" : "Baron Farms raises grass fed Beef, pasture raised Pork, and pasture raised Chicken on lush pastures in the Yakima Valley. Beef is offered by the 1/8th, 1/4, half and whole packages. Smaller beef packages and ground beef packages are also available. Pork is offered by the half or whole package.  Our animals spend their lives peacefully grazing on our high quality grass and legume-based pastures. We rotate our animals to ensure they always receive the highest quality and quantity of pasture. Our pigs' pasture diet is supplemented with fruit and vegetables from our produce garden. At no time do we use antibiotics or hormones.  Customers can pick up their beef and/or pork or we can ship for a nominal fee. We offer shipping to customers within the states of Washington, Oregon, and Idaho.  Baron Farms, LLC, Cameron Baron, 2971 West Wapato Road, Wapato WA 98951 (http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=2971+West+Wapato+Road,+Wapato+WA+98951&sll=37.0625,-95.677068&sspn=30.185946,61.259766&ie=UTF8&hq=&hnear=2971+W+Wapato+Rd,+Wapato,+Yakima,+Washington+98951&ll=46.448355,-120.492281&spn=3.277663,7.657471&z=7). (866) 9MY-BEEF (866.969.2333). E-mail: cbaronhj7@gmail.com (cbaronhj7@gmail.com).",
+	"website" : " http://www.baronfarms.com",
+	"products" : [
+		"Beef",
+		"Pork",
+		"Chickens"
+	],
+	"location" : {
+		"city" : "Wapato",
+		"state" : "Washington",
+		"coordinates" : [
+			120.49228099999999,
+			46.448355,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86728"),
+	"name" : "Basket Flat Ranch",
+	"description" : "Basket Flat Ranch is located in the Pacific        Northwest, near Battle Ground, Washington. Basket Flat Ranch utilizes        the mild, wet climate, longer growing season, and lush pastures to produce        a superior, all natural, grass fed beef product for your dinner table.                   We feed our beef animals only grass and clover pasture and locally grown        grass and clover hay during the Winter season. We fertilize our        pastures with manure and manure compost and avoid the use of chemical        fertilizer.             We do not use any hormones or anti-biotics and we are a small ranch with        tame animals that we personally work with in a low stress manner.              We raise Angus beef (both red and black color), and we are constantly selecting        genetics in our breeding stock for the best tenderness, marbling, and steak thickness.            We are passionate about raising beef with all natural techniques and carefully        taking care of and stewarding our animals and pastures year after year so we        can produce a healthy beef product for our table and yours.             We serve the S.W. Washington and Portland, OR Metro area. Our beef is        available for pick up from a local butcher in Battle Ground, WA.  Please        visit our web site for ordering, quantities, pricing and availability.              Basket Flat Ranch, Jon Schoenborn, 21309          NE Basket Flat Road, Battle Ground WA 98604 (http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=21309+NE+Basket+Flat+Road,+Battle+Ground+WA+98604&sll=37.0625,-95.677068&sspn=48.374125,79.013672&ie=UTF8&hq=&hnear=21309+NE+Basket+Flat+Rd,+Battle+Ground,+Clark,+Washington+98604&ll=45.833431,-122.454124&spn=5.358105,9.876709&z=7). (360) 601-5918.          E-mail: jons@basketflatranch.com (mailto:jons@basketflatranch.com).",
+	"website" : " http://www.basketflatranch.com",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Battle Ground",
+		"state" : "Washington",
+		"coordinates" : [
+			122.454124,
+			45.833431,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86729"),
+	"name" : "BCS Livestock",
+	"description" : "BCS Livestock raises natural grass-fed               lamb and pastured farm fresh eggs. We also sell wool               blankets made from the wool of our sheep. Our goal is to raise our               animals humanely and deliver a natural, wholesome product while               sustaining and improving the land.               Our products are available direct from the farm.               Please call or e-mail.              BCS Livestock, Skip, Betsy and Casey Smith,               19100              Highway 20, Winthrop WA (http://maps.google.com/maps?f=q&hl=en&geocode=&q=WA-20,+Winthrop,+Okanogan,+Washington+98862,+United+States&sll=47.26082,-122.510486&sspn=0.07421,0.133896&ie=UTF8&cd=1&ll=48.472921,-120.179443&spn=4.639699,8.569336&z=7&iwloc=addr&om=1)  98862. (509) 996-3159.                E-mail: drbetsy@methownet.com (mailto:drbetsy@methownet.com)",
+	"products" : [
+		"Lamb",
+		"Eggs"
+	],
+	"location" : {
+		"city" : "Winthrop",
+		"state" : "Washington",
+		"coordinates" : [
+			120.19455,
+			48.477929,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f8672a"),
+	"name" : "Bob's Beef ",
+	"description" : "Bob's Beef raises grass-fattened beef in Monroe, Washington.   Bob's farm began as a dairy 30 years ago. After selling the milk cows in December 2000, we decided to get a few beef cattle. A few cattle have turned into a herd of 18 Herefords and Angus. Our cattle are born on the farm in a closed herd and they are not in contact with any other herds, so there is less chance of bringing in any disease.   Our animals are grass fed and in winter they get top quality hay. they are not fed hormones, antibiotics, or any animal by-products. They are free to roam from the pastures to the shelter of the barns as they choose. We are a small farm so our cattle can be in an uncrowded, stress-free atmosphere.   Bob's Beef, Bob or Kathy Nash, 22630 Sofie Road, Monroe WA 98272 (http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=22630+Sofie+Road,+Monroe+WA+98272&sll=37.0625,-95.677068&sspn=45.957536,68.818359&ie=UTF8&hq=&hnear=22630+Sofie+Rd,+Monroe,+Snohomish,+Washington+98272&ll=47.851521,-121.929941&spn=2.447755,4.301147&z=8). (360) 794-8829.   E-mail: kathynash@wildblue.net (kathynash@wildblue.net).",
+	"website" : " http://www.bobsbeef.com",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Monroe",
+		"state" : "Washington",
+		"coordinates" : [
+			121.929941,
+			47.851521,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f8672b"),
+	"name" : "Bone Dry Ridge",
+	"description" : "Bone Dry Ridge Farm raises Icelandic Sheep, Scottish Highland Cattle, pigs and chickens. All are raised using organic practices but we are not certified.   They spend their summers out on pastures or in a small wooded area. Over winter the sheep and cows are fed local hay. The pigs and chickens are fed certified organic grain. Our job is to make sure they have a healthy happy life. Healthy and happy creatures are a delight to take care of.     We sell beef, lamb, pork, and eggs directly to consumers. To purchase from us, please contact us and we will add you to the mailing list. If you would like to know more about the farm, look at the website and/or contact us directly via email or phone. For sheep skins and raw wool contact us for availability.    Bone Dry Ridge, Selma Bjarnadottir, 209 Hyppa Road East, Rochester WA 98579 (http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=209+Hyppa+Road+East,+Rochester+WA+98579&sll=37.0625,-95.677068&sspn=46.543597,79.013672&ie=UTF8&hq=&hnear=209+Hyppa+Rd+E,+Rochester,+Lewis,+Washington+98579&ll=46.784561,-123.16888&spn=5.062676,9.876709&z=7). (360) 273-1045.  E-mail: selma@bonedryridge.com (selma@bonedryridge.com).",
+	"website" : " http://www.bonedryridge.com",
+	"products" : [
+		"Beef",
+		"Pork",
+		"Lamb",
+		"Eggs"
+	],
+	"location" : {
+		"city" : "Rochester",
+		"state" : "Washington",
+		"coordinates" : [
+			123.16888,
+			46.784561,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f8672c"),
+	"name" : "Botany Bay Farm",
+	"description" : "At Botany Bay Farm we use rotational grazing practices to produce healthy, contented animals, nourishing food and fertile, sustainable land. We currently raise and sell Pastured Chicken, Eggs, Rabbit, Beef, and Forest-Raised Pork as well as Rototiller Pork. All of our meat and eggs are 100% hormone- and antibiotic-free. We supplement our Pasture Raised Broilers, Layers, Rabbits, and Pigs with a soy-free and GMO-free feed (most of which is milled fresh on farm). The majority of our animals are processed on farm. Our Pasture Raised Chicken is available from the end of May through the beginning of October. We offer whole birds, cuts (quarters, boneless skinless breasts, and wings), broth parts, and organs on farm. You can also purchase our whole birds at any New Seasons Market or Chuck™s Produce & Street Market. Our Pasture-Raised Eggs are available year round and can also be purchased on farm or at New Seasons Market or Chuck™s Produce & Street Market. Our Forest-Raised Pork (available in the fall) and Rototiller Pork (available in the winter) are sold by the whole or half pig. Please check out our website for more information about our farm as well as product pricing. You can contact us if you have any questions about the products we offer or our farming practices. Be sure and check out our farm blog to see what's happening on the farm! Botany Bay Farm, Heidi Sturtevant, 13513 NE 132nd Avenue, Brush Prairie WA 98606. (360) 524-9005. E-mail: info@botanybayfarm.com",
+	"website" : " www.botanybayfarm.com",
+	"products" : [
+		"Chicken",
+		"Eggs",
+		"Rabbit",
+		"Beef",
+		"Pork"
+	],
+	"location" : {
+		"city" : "Brush Prairie",
+		"state" : "Washington",
+		"coordinates" : [
+			122.5358423,
+			45.720673600000005,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f8672d"),
+	"name" : "Bradrick Family Farms",
+	"description" : "Bradrick Family Farms Bradrick Family Farms near                      Montesano, Washington”Contact                    us for naturally healthful and delicious farm products, and                    enjoy getting to know your farmers and exactly where your                  food comes from!                   Our livestock is raised from start-to-finish                      on abundant, lush pasture. They are given no antibiotics,                      hormones, GMO's, animal by-products, synthetic chemicals,                    etc.                       Our healthy, happy chickens feed                      daily on quality grain and fresh pasture for the best of                      both health benefits and flavor. Pastured beef and lamb                    (when                      available) are fed flourishing grasses and natural minerals                      only. The result?   Reliably,                    health-building, farm fresh food for your table”delicious,                      tender meats, and beautiful, flavorful brown eggs                      with the yellowest yolks you have ever seen, both                      of which you can eat & enjoy                    with a good conscience! March 2013: Look for updates to our website coming soon.                     Bradrick Family Farms, Philip Bradrick, 25                    Geissler Road, Montesano WA 98563 (http://www.google.com/maphp?hl=en&tab=wl&q=25%20Geissler%20Road%2C%20Montesano%20WA%2098563). (360) 249-2472. E-mail: bradricks@intergate.com                   ",
+	"website" : " http://www.BradrickFamilyFarms.com",
+	"products" : [
+		"Beef",
+		"Lamb",
+		"Eggs"
+	],
+	"location" : {
+		"city" : "Montesano",
+		"state" : "Washington",
+		"coordinates" : [
+			123.654124,
+			47.008232,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f8672e"),
+	"name" : "Bright Ide Acres",
+	"description" : "Snohomish, WA. Pork, chickens, turkeys, eggs, goat, lamb. Bright Ide Acres is a small, diverse livestock farm located in the beautiful Snohomish River Valley, 40 miles northeast of Seattle. The farm is operated by Andrew and Micha Ide, a young couple whose big passion is ethically raised meat. Too often the meat found in the grocery stores comes from animals who weren™t allowed to live natural lives. In addition to the ethical issues raised, the meat from such animals is less nutritious and flavorful than it should be.  We are dedicated to providing our animals with the best care possible, and all are rotated onto fresh pasture or in wooded lots. The goats browse our prolific blackberry bushes, the pigs root up grubs, grass, and roots, and the poultry scratch and peck at fresh greens and protein-dense insects. The meat and eggs harvested from such creatures far surpass what is commercially available, and we encourage our friends and neighbors to give it a try. We also welcome all who are interested to come and visit us at the farm to see firsthand how our animals are raised. We are proud of our high standards, and we think you will be too.  We currently offer custom pork by the half or whole hog, whole pastured chickens, heritage turkeys for Thanksgiving, pastured eggs, whole grass-fed goat, and whole grass-fed lamb. Our pigs and poultry are fed non-GMO (corn- and soy-free) feed grown and milled in Washington State. Our pastures are pesticide- and herbicide-free.  Please visit our website for more information or send us an email. We™d be happy to talk to you and show you our farm. Thank you for supporting local agriculture and ethically raised meat! Bright Ide Acres, Micha and Andrew Ide, PO Box 1156, Snohomish, WA 98291. (360) 282-0252. E-mail: brightideacres@gmail.com",
+	"website" : " www.brightideacres.com",
+	"products" : [
+		"Pork",
+		"Turkey",
+		"Chicken",
+		"Eggs",
+		"Goat",
+		"Lamb"
+	],
+	"location" : {
+		"city" : "Snohomish",
+		"state" : "Washington",
+		"coordinates" : [
+			122.09818480000001,
+			47.91287560000001,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f8672f"),
+	"name" : "Buckleberry Farm",
+	"description" : "Buckleberry Farm is our \"hobbit-farm\"              in Milton-Freewater, OR. Everything is on a small scale for now.                We raise fruit, vegetables, poultry, and bottle, can and                have a bakery in our home using all our little farm produces.                We take these products to the Walla Walla Farmers Market and                sell to folks by phone and e-mail orders.  We dry and roast                fruits and nuts as well and run the bakery one full day a week.                 We have also started bottling our blackberries into an Oregon                blackberry BBQ sauce and other items.              We raise, for now, 20 Bronze Turkey pasture-fed              per year and 20 broilers two times a year to freeze and sell smoked              as well. Building our own smokehouse now! Looking forward to expanding              and developing our knowledge and facilities! We also raise miniature              horses and love to cart them down country roads. We love farm life...any              interest you have in what we do, please contact us via e-mail!             Buckleberry Farm, Chuck and Cindi Hudgins, 85180                Hurst Lane, Milton-Freewater, OR (http://maps.google.com/maps?f=q&hl=en&geocode=&q=85180+Hurst+Lane,+Milton-Freewater,+OR&sll=47.269169,-122.47624&sspn=0.01025,0.016823&ie=UTF8&ll=45.981695,-118.399658&spn=5.374662,8.613281&z=7&iwloc=addr&om=1) 97862.  (541) 938-5352.               E-mail: buckleberry@charter.net (mailto:buckleberry@charter.net).            ",
+	"website" : " http://www.buckleberryfarm.com",
+	"products" : [
+		"Chicken",
+		"Turkey"
+	],
+	"location" : {
+		"city" : "Milton-Freewater",
+		"state" : "Oregon",
+		"coordinates" : [
+			118.39481,
+			45.985304,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86730"),
+	"name" : "Card's L Hanging S Ranch ",
+	"description" : "Card's L Hanging                      S Ranch Grass Fat Beef”Our cattle have spent                      all their lives on our place, near Prosser in the Lower                      Yakima Valley. They and their mothers and grandmothers                      have eaten only what we raise: good grass and hay. No antibiotics                      or growth stimulants.         We sold out last year, so call us soon if you want to be on the list for September/October 2011. We charge by the pound hanging weight; in addition the buyer pays cut, wrap, and farm harvest by local meat cutter. Beef is available by the whole, half or split half with a $200 deposit before harvest.        Card's L Hanging S Ranch, Charlie and Linda Card, 7102          South Steele Road, Prosser WA 99350 (http://www.google.com/maphp?hl=en&tab=wl&q=7102%20South%20Steele%20Road%2C%20Prosser%20WA%2099350). (509) 786-4970. Charlie's          cell:         (509) 788-1234. Linda's cell: (509) 788-1005.",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Prosser",
+		"state" : "Washington",
+		"coordinates" : [
+			119.804785,
+			46.205211000000006,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86731"),
+	"name" : "Cascade Range Beef Company",
+	"description" : "Cascade               Range Beef Company is a family of              ranches located west of the Cascade Range in the state of Washington.              Some of our ranches are in Snohomish County and East King County.              Our ranchers share a common commitment to responsible, sustainable              farming practices, and humane care is given to each animal.               Each              animal is individually inspected and tracked to assure the maximum              health benefits. No antibiotics, growth hormones, steroids, or              processing additives are allowed. Our strict protocols require              British breeds known to flourish on all-grass, 100% vegetarian              diets in our local climate. The animals always get plenty of exercise              and fresh, green forages, and are free to graze on hundreds of              acres of pastureland.              We sell our beef in whole, halves, and quarters.              Our grassfed beef is generally available from spring through late              fall. A deposit is required to reserve your beef.             Cascade Range Beef Company, Lucy Campos, mailing               address: c/o Mr. Robert Richards, 25224 132nd Street SE, Monroe               WA (http://www.mapquest.com/maps/map.adp?country=US&address=&city=Monroe&state=WA)  98272.              (206) 355-2468. E-mail: cascaderangebeef@gmail.com (mailto:cascaderangebeef@gmail.com).",
+	"products" : [
+		"Beef"
+	],
+	"location" : {
+		"city" : "Monroe",
+		"state" : "Washington",
+		"coordinates" : [
+			121.893237,
+			47.878085,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+{
+	"_id" : ObjectId("58cd9776c8d5c309d0f86732"),
+	"name" : "Chinook Farms",
+	"description" : "Chinook Farms is a 132-acre diversified farm in the fertile Snohomish River Valley. Our goal is        to produce local, fresh organic produce, grass fed and finished beef, and pastured poultry to        help sustain and support local agriculture. Our beef is available mostly in the fall months and occasionally during the rest of the year. Our Freedom Ranger chickens, also known as Red Rangers, are raised during the warmer months. They can be reserved by email or through our website with a $5.00 per bird deposit.        We raise our cattle on  pastures that  are certified organic by WSDA. All their feed comes from the farm, mostly  through rotational grazing and augmented with our own hay. We have also  earned the Salmon Safe designation.  We sell our beef by the 1/4, 1/2,  or whole portions. We are able to ship our frozen beef to some parts of Alaska  served by Alaska Marine Lines.                      We prefer payments by check or cash but do accept credit and  debit cards* through Square (www.squareup.com (http://www.squareup.com)).           (* Fees  may apply for credit and debit card transactions.)                Chinook Farms, Eric Fritch, (425)  508-6341.        Mailing address: 18507 Waverly Drive, Snohomish WA 98296.          Farm address: 10601 Elliott Rd, Snohomish, WA (https://www.google.com/maps?q=10601+Elliott+Rd,+Snohomish,+WA&hl=en&ll=47.842658,-122.091064&spn=2.728319,6.366577&sll=37.0625,-95.677068&sspn=51.04407,101.865234&hnear=10601+Elliott+Rd,+Snohomish,+Washington+98296&t=m&z=8) 98296 (By A          E-ma [il: eric@chinookfarms.com",
+	"website" : " http://www.chinookfarms.com",
+	"products" : [
+		"Beef",
+		"Chicken"
+	],
+	"location" : {
+		"city" : "Snohomish",
+		"state" : "Washington",
+		"coordinates" : [
+			122.08983200000002,
+			47.843321,
+			0
+		]
+	},
+	"Price per lb" : "10"
+}
+]
